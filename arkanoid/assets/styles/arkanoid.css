@@ -1,0 +1,11 @@
+main{
+    display:flex;
+    justify-content: center;
+    align-items: start;
+    gap: 5px;
+
+}
+#arkanoid {
+    background-color: var(--color-gen);
+    border : 4px solid  #f312d8;
+}
